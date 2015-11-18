@@ -1,0 +1,23 @@
+name: ProjectNextDaVinci
+favicon: null
+layout_spectrum: 0.9060885428916663
+typography_spectrum: 0.8213587552309036
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7541742157191038
+  lightness: 0.7206063573248684
+  saturation: 0.4696468226611614
+  rhythmicContrast: 0.6611750507727265
+purpose: []
